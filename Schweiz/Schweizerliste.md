@@ -1,6 +1,3 @@
-
-<u>***Inhaltsverzeichnis***</u>
-
 ## Info
 Diese Liste bietet einen Überblick über die verschiedenen Wanderungen. Hier sind alle Wanderungen in der Schweiz nach Kategorien geordnet.
 
