@@ -2,7 +2,7 @@
 Diese Liste bietet einen Überblick über die verschiedenen Wanderungen. Hier sind alle Wanderungen in der Schweiz nach Kategorien geordnet.
 
 ## Panoramawanderungen
-- [5-Seen-Wanderung_Pizol](Wanderungen/5-Seen-Wanderung/5-Seen-Wanderung_Pizol.md)
+- [5-Seen-Wanderung_Pizol](Wanderungen/5-Seen-Wanderung_Pizol/5-Seen-Wanderung_Pizol.md)
 
 ## Sonnenaufgangswanderungen
 - [Creux_du_Van](Wanderungen/Creux_du_Van/Creux_du_Van.md)
