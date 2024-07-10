@@ -1,3 +1,5 @@
+[Zurück](../../Schweizerliste.md)
+
 <u>**Inhaltsverzeichnis**</u>
 - [Steckbrief](#Steckbrief)
 - [Anreise](#Anreise)
@@ -28,19 +30,17 @@ Die erste Etappe dieser eindrucksvollen Wanderung führt zuerst von der Fafleral
 In der zweiten Etappe dieser Wanderung führt der Trail mit herrlichen Ausblicken auf den Langgletscher steil hinunter zur Lonza. Auf der anderen Talseite schlängelt sich schliesslich ein Pfad zurück zur Fafleralp. Diese Tour ist auch in umgekehrter Richtung empfehlenswert.
 
 ### Route
-![[Pasted image 20240710100747.png]]
 
+![Pasted image 20240710100747.png](Pasted%20image%2020240710100747.png)
 ### Höhenprofil
-![[Pasted image 20240710100820.png]]
+![Pasted image 20240710100820.png](Pasted%20image%2020240710100820.png)
 
 ### Aussicht
-![[Pasted image 20240710101037.png]]
-![[Pasted image 20240710101046.png]]
-![[Pasted image 20240710101052.png]]
-
-![[Pasted image 20240710101059.png]]
-![[Pasted image 20240710101110.png]]
-![[Pasted image 20240710101132.png]]
+![Pasted image 20240710101037.png](Pasted%20image%2020240710101037.png)
+![Pasted image 20240710101046.png](Pasted%20image%2020240710101046.png)
+![Pasted image 20240710101052.png](Pasted%20image%2020240710101052.png)
+![Pasted image 20240710101110.png](Pasted%20image%2020240710101110.png)
+![Pasted image 20240710101132.png](Pasted%20image%2020240710101132.png)
 ## Anreise
 ### Anreise mit der Gondelbahn
 
@@ -53,4 +53,4 @@ In der zweiten Etappe dieser Wanderung führt der Trail mit herrlichen Ausblicke
 | **Web**            |                                         |
 
 ### Anfahrt 
-![[Pasted image 20240710100928.png]]
+![Pasted image 20240710100928.png](Pasted%20image%2020240710100928.png)
