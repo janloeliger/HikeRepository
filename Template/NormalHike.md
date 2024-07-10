@@ -22,6 +22,18 @@
 | **Sonstige Bemerkungen** |          |
 | **Web**                  |          |
 
+## Aussicht und Beschreibung
+Beschreibung der Wanderung
+
+### Route
+Img von der Karte
+
+### Höhenprofil
+Img von dem Höhenprofil
+
+### Aussicht
+Bilder von der Wanderung
+
 ## Anreise
 ### Anreise mit der Gondelbahn
 
@@ -35,15 +47,3 @@
 
 ### Anfahrt 
 Img von Google-Maps
-
-## Aussicht und Beschreibung
-Beschreibung der Wanderung
-
-### Route
-Img von der Karte
-
-### Höhenprofil
-Img von dem Höhenprofil
-
-### Aussicht
-Bilder von der Wanderung
