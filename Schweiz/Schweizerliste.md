@@ -6,7 +6,7 @@ Diese Liste bietet einen Überblick über verschiedene Wanderungen in der Schwei
 
 ## Panoramawanderungen
 - [5 Seen Wanderung Pizol](Wanderungen/5-Seen-Wanderung_Pizol/5-Seen-Wanderung_Pizol.md)
-- [Lötschental Fafleralp - Anehütte](Wanderungen/Fafleralp-Anehütte/Lötschental_Fafleralp-Anenhütte)
+- [Lötschental Fafleralp - Anehütte](Wanderungen/Fafleralp-Anehuette/Lötschental_Fafleralp-Anenhuette)
 
 ## Sonnenaufgangswanderungen
 - [Creux du Van](Wanderungen/Creux_du_Van/Creux_du_Van.md)
